@@ -2,9 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171817,100:d8ff47&height=220&section=header&text=CHANGAN-SE7EN&fontSize=64&fontColor=f5f5f0&animation=fadeIn&fontAlignY=38&desc=Building%20AI-native%20tools%20for%20creative%20work&descAlignY=58&descSize=18" width="100%" alt="CHANGAN-SE7EN" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Agent-Workflows-171817?style=flat-square&labelColor=d8ff47&color=171817" />
-  <img src="https://img.shields.io/badge/Creative%20Tools-Open%20Source-171817?style=flat-square&labelColor=b8c9ff&color=171817" />
-  <img src="https://img.shields.io/badge/License-MIT-171817?style=flat-square&labelColor=f5f5f0&color=171817" />
+<img src="https://img.shields.io/badge/AI%20Agent-Workflows-171817?style=flat-square&labelColor=d8ff47&color=171817" />
+<img src="https://img.shields.io/badge/Creative%20Tools-Open%20Source-171817?style=flat-square&labelColor=b8c9ff&color=171817" />
+<img src="https://img.shields.io/badge/Human%20%2B%20AI-Creative%20Workflow-171817?style=flat-square&labelColor=5eead4&color=171817" />
+<img src="https://img.shields.io/badge/Status-Actively%20Shaping-171817?style=flat-square&labelColor=c084fc&color=171817" />
+<img src="https://img.shields.io/github/followers/CHANG7MING?label=Followers&style=flat-square&labelColor=fb7185&color=171817" />
+<img src="https://komarev.com/ghpvc/?username=CHANG7MING&label=Profile%20views&color=fbbf24&style=flat-square" />
 </p>
 
 ---
